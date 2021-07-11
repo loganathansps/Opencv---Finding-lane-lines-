@@ -1,6 +1,7 @@
 # Opencv--Finding-lane-lines-
 
 Simple Project on Opencv-Python to detect and annotate lane lines in images and video. 
+Credits to Udacity's Self Driving Cars Nano Degree Program. 
 
 # Requirements
 * Python3 with open cv installed. 
